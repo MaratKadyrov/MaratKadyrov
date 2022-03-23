@@ -1,6 +1,9 @@
-## Hi there 👋
-
-ADD MORE INFO
+## Hi there :wave: I'm Marat
+## Data Scientist
+**I'm working with:**
+ - Data Analysis
+ - Machine Learning
+ - Deep Learning
 
 ### My projects:
 1. [Cell Segmentation](https://github.com/Padavan1987/Cell_Segmentation) - проект по подсчету клеток в камере Фукса‑Розенталя используя CV (Faster RCNN model).
