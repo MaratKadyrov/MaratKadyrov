@@ -14,7 +14,7 @@
 
 
 ### Education 
-- **Specialist Degree** in Automatization of Technology Processes at Tyumen State Oil and Gas University (2004 - 2009)
+- **Master Degree** in Automatization of Technology Processes at Tyumen State Oil and Gas University (2004 - 2009)
 
 
 ### Hackathon participation 
