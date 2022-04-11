@@ -1,4 +1,3 @@
-## Hi there :wave: I'm Marat
 ## Data Scientist
 **I'm working with:**
  - Data Analysis
