@@ -16,7 +16,7 @@
 
 
 ### Hackathon participation 
-- [Health Data Hack]() – Innovative solutions that help in the fight against infectious and oncological diseases
+- [Health Data Hack](https://github.com/MaratKadyrov/MaratKadyrov/blob/main/HackTheCart.pdf) – Innovative solutions that help in the fight against infectious and oncological diseases
 - [Hack The Cart](https://github.com/MaratKadyrov/MaratKadyrov/blob/main/HackTheCart.pdf) – Recommending system for the basket of the Lenta Online
 
 
