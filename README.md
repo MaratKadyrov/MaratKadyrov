@@ -25,7 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marat-kadyrov-05bb49a4)
 
 ### Python 
-![CodeWars](https://www.codewars.com/users/padavan2005/badges/large)
+![CodeWars](https://www.codewars.com/users/Marat%20K/badges/large)
 
 ### Stack:
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
