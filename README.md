@@ -7,7 +7,7 @@
 ### My projects:
 1. [Cells Counter](https://github.com/MaratKadyrov/Cells_counter) - Cells counting in the Fuchs-Rosenthal Counting Chamber using CV (Faster RCNN model).
 2. [Satirical news bot](https://github.com/MaratKadyrov/satirical_news_bot) - Telegram bot generate satirical news (model - sberbank-ai/rugpt3medium_based_on_gpt).
-3. [House Prices](https://github.com/Padavan1987/House_prices) - Kaggle соревнование по прогнозированию цен на жилье.
+3. [House Prices](https://github.com/Padavan1987/House_prices) - Kaggle house price prediction competition.
 
 
 ### Education 
