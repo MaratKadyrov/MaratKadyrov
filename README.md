@@ -6,8 +6,9 @@
 
 ### My projects:
 1. [Cells Counter](https://github.com/MaratKadyrov/Cells_counter) - Cells counting in the Fuchs-Rosenthal Counting Chamber using CV (Faster RCNN model).
-2. [House Prices](https://github.com/MaratKadyrov/House_prices) - Kaggle house price prediction competition.
-3. [NLP Disaster Tweets](https://github.com/MaratKadyrov/Natural_Language_Processing_with_Disaster_Tweets) - Kaggle NLP competition
+2. [Satirical news bot](https://github.com/MaratKadyrov/satirical_news_bot) - Telegram bot generates satirical news (model - GPT).
+3. [House Prices](https://github.com/MaratKadyrov/House_prices) - Kaggle house price prediction competition.
+4. [NLP Disaster Tweets](https://github.com/MaratKadyrov/Natural_Language_Processing_with_Disaster_Tweets) - Kaggle NLP competition
 
 
 ### Education 
